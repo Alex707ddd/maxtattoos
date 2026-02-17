@@ -1,0 +1,23 @@
+{
+    "appointmentNotice": {
+        "title": "Appointment Notice",
+        "rules": [
+            "You must be over 18 years old and provide valid proof of photo ID.",
+            "The best way to find out about prices is to book a consultation with a tattoo artist. Detailed content will help to understand your idea, and the size of the pattern, theme, position on it, details will affect the price.",
+            "Two days before the tattoo, try not to drink alcohol.",
+            "Adequate sleep and keeping the body clean are also required."
+        ]
+    },
+    "aftercare": {
+        "title": "Aftercare",
+        "rules": [
+            "Use mild cleaning products, wash the tattoo wound with warm and cold water, dry it with paper towels and apply tattoo repair products. (Do not rub ointments other than those prescribed by the tattoo artist)",
+            "The tattoo recovery period is 2 to 4 weeks, please keep the tattoo clean during the period.",
+            "Filming, scabbing, peeling, itching, and a slightly dull sore are normal during the healing process. Do not pull or scratch peeling and scabs, let them fall off naturally.",
+            "Wear loose, clean clothing, and avoid alcohol and irritating foods during recovery.",
+            "Avoid sun exposure, excessive exercise, pulling on the tattooed area, and avoid irritating the surrounding skin.",
+            "Saunas, beaches, swimming pools, and baths are strictly prohibited within 1 month.",
+            "Any questions you can ask your tattoo artist."
+        ]
+    }
+}

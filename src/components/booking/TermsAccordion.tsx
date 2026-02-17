@@ -16,6 +16,18 @@ export default function TermsAccordion() {
         { title: t('terms.deposit.title'), content: t('terms.deposit.content') },
         { title: t('terms.design.title'), content: t('terms.design.content') },
         { title: t('terms.health.title'), content: t('terms.health.content') },
+        {
+            title: t('aftercare.title'),
+            content: [
+                t('aftercare.cleaning'),
+                t('aftercare.recovery'),
+                t('aftercare.healing'),
+                t('aftercare.clothing'),
+                t('aftercare.sun'),
+                t('aftercare.water'),
+                t('aftercare.questions'),
+            ],
+        },
     ];
 
     const toggle = (index: number) => {
@@ -45,7 +57,15 @@ export default function TermsAccordion() {
                                 className={styles.content}
                             >
                                 <div className={styles.contentInner}>
-                                    {term.content}
+                                    {Array.isArray(term.content) ? (
+                                        <ul className={styles.contentList}>
+                                            {term.content.map((item, i) => (
+                                                <li key={i}>{item}</li>
+                                            ))}
+                                        </ul>
+                                    ) : (
+                                        term.content
+                                    )}
                                 </div>
                             </motion.div>
                         )}

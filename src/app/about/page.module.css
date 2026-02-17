@@ -1,0 +1,165 @@
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 6rem 2rem 8rem;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+.title {
+    font-family: var(--font-display);
+    font-size: 3rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 1rem;
+}
+
+@media (min-width: 768px) {
+    .title {
+        font-size: 4.5rem;
+    }
+}
+
+.intro {
+    color: var(--muted);
+    font-size: 1rem;
+    font-style: italic;
+}
+
+/* Stats Grid */
+.stats {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    margin-bottom: 5rem;
+}
+
+@media (min-width: 768px) {
+    .stats {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+.statItem {
+    background: var(--background);
+    padding: 2rem;
+    text-align: center;
+}
+
+.statNumber {
+    font-family: var(--font-display);
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--accent);
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.statLabel {
+    font-size: 0.65rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--muted);
+}
+
+/* Story Section */
+.storySection {
+    margin-bottom: 5rem;
+}
+
+.sectionTitle {
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    margin-bottom: 2.5rem;
+    border-left: 3px solid var(--accent);
+    padding-left: 1rem;
+    color: var(--muted);
+}
+
+.storyText {
+    color: var(--muted);
+    font-size: 0.95rem;
+    line-height: 1.9;
+    margin-bottom: 1.5rem;
+}
+
+.storyText:last-child {
+    margin-bottom: 0;
+}
+
+/* Specialties */
+.specialties {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    margin-bottom: 5rem;
+}
+
+.specialtyItem {
+    background: var(--background);
+    padding: 2.5rem 2rem;
+    text-align: center;
+    transition: background 0.3s;
+}
+
+.specialtyItem:hover {
+    background: var(--surface);
+}
+
+.specialtyIcon {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    display: block;
+}
+
+.specialtyName {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+}
+
+/* CTA */
+.cta {
+    text-align: center;
+    padding: 4rem 2rem;
+    border: 1px solid var(--border);
+}
+
+.ctaText {
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+
+.ctaButton {
+    display: inline-block;
+    background-color: var(--accent);
+    color: white;
+    padding: 1rem 2.5rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    transition: all 0.3s ease;
+    border: none;
+}
+
+.ctaButton:hover {
+    background-color: var(--accent-hover);
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(195, 34, 34, 0.3);
+}

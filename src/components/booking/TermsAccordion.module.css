@@ -57,3 +57,27 @@
     font-size: 0.85rem;
     line-height: 1.7;
 }
+
+.contentList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.contentList li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid var(--border);
+    padding-left: 1rem;
+    position: relative;
+}
+
+.contentList li::before {
+    content: '—';
+    position: absolute;
+    left: 0;
+    color: var(--accent);
+}
+
+.contentList li:last-child {
+    border-bottom: none;
+}
