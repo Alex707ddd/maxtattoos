@@ -1,0 +1,903 @@
+{
+  "IMG_2796.JPG": {
+    "primary_tag": "minimalist",
+    "detailed_analysis": [
+      {
+        "label": "minimalist tattoo",
+        "score": 0.3682718873023987
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.22544150054454803
+      },
+      {
+        "label": "color tattoo",
+        "score": 0.10232160240411758
+      }
+    ]
+  },
+  "IMG_2797.JPG": {
+    "primary_tag": "realistic",
+    "detailed_analysis": [
+      {
+        "label": "realistic tattoo",
+        "score": 0.2286555916070938
+      },
+      {
+        "label": "traditional tattoo",
+        "score": 0.16572043299674988
+      },
+      {
+        "label": "color tattoo",
+        "score": 0.16089710593223572
+      }
+    ]
+  },
+  "IMG_2798.JPG": {
+    "primary_tag": "lettering",
+    "detailed_analysis": [
+      {
+        "label": "lettering tattoo",
+        "score": 0.37574461102485657
+      },
+      {
+        "label": "realistic tattoo",
+        "score": 0.18840904533863068
+      },
+      {
+        "label": "color tattoo",
+        "score": 0.11915537714958191
+      }
+    ]
+  },
+  "IMG_2799.JPG": {
+    "primary_tag": "lettering",
+    "detailed_analysis": [
+      {
+        "label": "lettering tattoo",
+        "score": 0.29126569628715515
+      },
+      {
+        "label": "minimalist tattoo",
+        "score": 0.2398986667394638
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.13679289817810059
+      }
+    ]
+  },
+  "IMG_2800.JPG": {
+    "primary_tag": "japanese",
+    "detailed_analysis": [
+      {
+        "label": "japanese tattoo",
+        "score": 0.49117499589920044
+      },
+      {
+        "label": "minimalist tattoo",
+        "score": 0.3281724452972412
+      },
+      {
+        "label": "geometric tattoo",
+        "score": 0.03424416482448578
+      }
+    ]
+  },
+  "IMG_2801.JPG": {
+    "primary_tag": "minimalist",
+    "detailed_analysis": [
+      {
+        "label": "minimalist tattoo",
+        "score": 0.6305991411209106
+      },
+      {
+        "label": "geometric tattoo",
+        "score": 0.16453363001346588
+      },
+      {
+        "label": "lettering tattoo",
+        "score": 0.07483462989330292
+      }
+    ]
+  },
+  "IMG_2802.JPG": {
+    "primary_tag": "japanese",
+    "detailed_analysis": [
+      {
+        "label": "japanese tattoo",
+        "score": 0.8401511311531067
+      },
+      {
+        "label": "traditional tattoo",
+        "score": 0.037738699465990067
+      },
+      {
+        "label": "minimalist tattoo",
+        "score": 0.03633035346865654
+      }
+    ]
+  },
+  "IMG_2803.JPG": {
+    "primary_tag": "minimalist",
+    "detailed_analysis": [
+      {
+        "label": "minimalist tattoo",
+        "score": 0.4021868407726288
+      },
+      {
+        "label": "geometric tattoo",
+        "score": 0.15359538793563843
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.13957810401916504
+      }
+    ]
+  },
+  "IMG_2804.JPG": {
+    "primary_tag": "black and grey",
+    "detailed_analysis": [
+      {
+        "label": "black and grey tattoo",
+        "score": 0.24620556831359863
+      },
+      {
+        "label": "portrait tattoo",
+        "score": 0.2232123166322708
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.15413500368595123
+      }
+    ]
+  },
+  "IMG_2805.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.30138128995895386
+      },
+      {
+        "label": "geometric tattoo",
+        "score": 0.2118881195783615
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.16236114501953125
+      }
+    ]
+  },
+  "IMG_2806.JPG": {
+    "primary_tag": "minimalist",
+    "detailed_analysis": [
+      {
+        "label": "minimalist tattoo",
+        "score": 0.48836326599121094
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.19401495158672333
+      },
+      {
+        "label": "geometric tattoo",
+        "score": 0.08981582522392273
+      }
+    ]
+  },
+  "IMG_2807.JPG": {
+    "primary_tag": "minimalist",
+    "detailed_analysis": [
+      {
+        "label": "minimalist tattoo",
+        "score": 0.28764522075653076
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.17404089868068695
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.12938383221626282
+      }
+    ]
+  },
+  "IMG_2808.JPG": {
+    "primary_tag": "black and grey",
+    "detailed_analysis": [
+      {
+        "label": "black and grey tattoo",
+        "score": 0.30731138586997986
+      },
+      {
+        "label": "traditional tattoo",
+        "score": 0.23260968923568726
+      },
+      {
+        "label": "minimalist tattoo",
+        "score": 0.2161397486925125
+      }
+    ]
+  },
+  "IMG_2809.JPG": {
+    "primary_tag": "black and grey",
+    "detailed_analysis": [
+      {
+        "label": "black and grey tattoo",
+        "score": 0.3729798197746277
+      },
+      {
+        "label": "lettering tattoo",
+        "score": 0.2153538018465042
+      },
+      {
+        "label": "minimalist tattoo",
+        "score": 0.11682172119617462
+      }
+    ]
+  },
+  "IMG_2810.JPG": {
+    "primary_tag": "minimalist",
+    "detailed_analysis": [
+      {
+        "label": "minimalist tattoo",
+        "score": 0.43821612000465393
+      },
+      {
+        "label": "lettering tattoo",
+        "score": 0.3098415732383728
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.1226908341050148
+      }
+    ]
+  },
+  "IMG_2811.JPG": {
+    "primary_tag": "lettering",
+    "detailed_analysis": [
+      {
+        "label": "lettering tattoo",
+        "score": 0.425016313791275
+      },
+      {
+        "label": "minimalist tattoo",
+        "score": 0.2964523732662201
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.07134683430194855
+      }
+    ]
+  },
+  "IMG_2812.JPG": {
+    "primary_tag": "lettering",
+    "detailed_analysis": [
+      {
+        "label": "lettering tattoo",
+        "score": 0.8248698711395264
+      },
+      {
+        "label": "minimalist tattoo",
+        "score": 0.03494829311966896
+      },
+      {
+        "label": "color tattoo",
+        "score": 0.030281594023108482
+      }
+    ]
+  },
+  "IMG_2813.JPG": {
+    "primary_tag": "lettering",
+    "detailed_analysis": [
+      {
+        "label": "lettering tattoo",
+        "score": 0.4746443033218384
+      },
+      {
+        "label": "minimalist tattoo",
+        "score": 0.15065811574459076
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.1328640729188919
+      }
+    ]
+  },
+  "IMG_2814.JPG": {
+    "primary_tag": "lettering",
+    "detailed_analysis": [
+      {
+        "label": "lettering tattoo",
+        "score": 0.38247913122177124
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.22921091318130493
+      },
+      {
+        "label": "minimalist tattoo",
+        "score": 0.1731937825679779
+      }
+    ]
+  },
+  "IMG_2815.JPG": {
+    "primary_tag": "minimalist",
+    "detailed_analysis": [
+      {
+        "label": "minimalist tattoo",
+        "score": 0.5783710479736328
+      },
+      {
+        "label": "lettering tattoo",
+        "score": 0.22427687048912048
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.057144176214933395
+      }
+    ]
+  },
+  "IMG_2816.JPG": {
+    "primary_tag": "minimalist",
+    "detailed_analysis": [
+      {
+        "label": "minimalist tattoo",
+        "score": 0.7315170168876648
+      },
+      {
+        "label": "color tattoo",
+        "score": 0.06759270280599594
+      },
+      {
+        "label": "realistic tattoo",
+        "score": 0.05185498669743538
+      }
+    ]
+  },
+  "IMG_2817.JPG": {
+    "primary_tag": "minimalist",
+    "detailed_analysis": [
+      {
+        "label": "minimalist tattoo",
+        "score": 0.18997833132743835
+      },
+      {
+        "label": "lettering tattoo",
+        "score": 0.16626779735088348
+      },
+      {
+        "label": "traditional tattoo",
+        "score": 0.1579771339893341
+      }
+    ]
+  },
+  "IMG_2818.JPG": {
+    "primary_tag": "black and grey",
+    "detailed_analysis": [
+      {
+        "label": "black and grey tattoo",
+        "score": 0.33931243419647217
+      },
+      {
+        "label": "minimalist tattoo",
+        "score": 0.27166515588760376
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.1385284811258316
+      }
+    ]
+  },
+  "IMG_2819.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.313109815120697
+      },
+      {
+        "label": "minimalist tattoo",
+        "score": 0.232720747590065
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.14381000399589539
+      }
+    ]
+  },
+  "IMG_2820.JPG": {
+    "primary_tag": "minimalist",
+    "detailed_analysis": [
+      {
+        "label": "minimalist tattoo",
+        "score": 0.3690378665924072
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.3236708343029022
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.09053482115268707
+      }
+    ]
+  },
+  "IMG_2821.JPG": {
+    "primary_tag": "minimalist",
+    "detailed_analysis": [
+      {
+        "label": "minimalist tattoo",
+        "score": 0.4707581400871277
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.2214793860912323
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.1263425350189209
+      }
+    ]
+  },
+  "IMG_2822.JPG": {
+    "primary_tag": "traditional",
+    "detailed_analysis": [
+      {
+        "label": "traditional tattoo",
+        "score": 0.22113899886608124
+      },
+      {
+        "label": "minimalist tattoo",
+        "score": 0.21087470650672913
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.19734081625938416
+      }
+    ]
+  },
+  "IMG_2824.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.6311597228050232
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.14330221712589264
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.060020383447408676
+      }
+    ]
+  },
+  "IMG_2825.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.9399232268333435
+      },
+      {
+        "label": "realistic tattoo",
+        "score": 0.017294742166996002
+      },
+      {
+        "label": "traditional tattoo",
+        "score": 0.01461879350244999
+      }
+    ]
+  },
+  "IMG_2826.JPG": {
+    "primary_tag": "black and grey",
+    "detailed_analysis": [
+      {
+        "label": "black and grey tattoo",
+        "score": 0.588275671005249
+      },
+      {
+        "label": "realistic tattoo",
+        "score": 0.13773603737354279
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.056428514420986176
+      }
+    ]
+  },
+  "IMG_2827.JPG": {
+    "primary_tag": "black and grey",
+    "detailed_analysis": [
+      {
+        "label": "black and grey tattoo",
+        "score": 0.46745777130126953
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.2307063341140747
+      },
+      {
+        "label": "traditional tattoo",
+        "score": 0.11213359236717224
+      }
+    ]
+  },
+  "IMG_2828.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.37049180269241333
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.27709469199180603
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.11995849013328552
+      }
+    ]
+  },
+  "IMG_2829.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.8494229316711426
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.03850162401795387
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.03385394439101219
+      }
+    ]
+  },
+  "IMG_2830.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.917493999004364
+      },
+      {
+        "label": "realistic tattoo",
+        "score": 0.02964083105325699
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.022119060158729553
+      }
+    ]
+  },
+  "IMG_2831.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.7236114144325256
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.1732630878686905
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.05072135478258133
+      }
+    ]
+  },
+  "IMG_2832.JPG": {
+    "primary_tag": "black and grey",
+    "detailed_analysis": [
+      {
+        "label": "black and grey tattoo",
+        "score": 0.32658782601356506
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.11947811394929886
+      },
+      {
+        "label": "traditional tattoo",
+        "score": 0.11887416243553162
+      }
+    ]
+  },
+  "IMG_2833.JPG": {
+    "primary_tag": "sketch style",
+    "detailed_analysis": [
+      {
+        "label": "sketch style tattoo",
+        "score": 0.36968937516212463
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.2011534869670868
+      },
+      {
+        "label": "traditional tattoo",
+        "score": 0.14772218465805054
+      }
+    ]
+  },
+  "IMG_2834.JPG": {
+    "primary_tag": "black and grey",
+    "detailed_analysis": [
+      {
+        "label": "black and grey tattoo",
+        "score": 0.3661801218986511
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.2511920928955078
+      },
+      {
+        "label": "portrait tattoo",
+        "score": 0.1602492332458496
+      }
+    ]
+  },
+  "IMG_2835.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.8869945406913757
+      },
+      {
+        "label": "realistic tattoo",
+        "score": 0.04263538122177124
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.03234564885497093
+      }
+    ]
+  },
+  "IMG_2836.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.3120194673538208
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.23582851886749268
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.13905274868011475
+      }
+    ]
+  },
+  "IMG_2837.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.33824121952056885
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.29925042390823364
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.15143220126628876
+      }
+    ]
+  },
+  "IMG_2838.JPG": {
+    "primary_tag": "black and grey",
+    "detailed_analysis": [
+      {
+        "label": "black and grey tattoo",
+        "score": 0.7613992094993591
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.06321447342634201
+      },
+      {
+        "label": "realistic tattoo",
+        "score": 0.03882922604680061
+      }
+    ]
+  },
+  "IMG_2839.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.7262693047523499
+      },
+      {
+        "label": "realistic tattoo",
+        "score": 0.10648750513792038
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.08744315803050995
+      }
+    ]
+  },
+  "IMG_2840.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.9322451949119568
+      },
+      {
+        "label": "realistic tattoo",
+        "score": 0.03362792730331421
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.012821231968700886
+      }
+    ]
+  },
+  "IMG_2841.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.9076449275016785
+      },
+      {
+        "label": "realistic tattoo",
+        "score": 0.04194974526762962
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.013157442212104797
+      }
+    ]
+  },
+  "IMG_2842.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.762067973613739
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.10635800659656525
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.07478169351816177
+      }
+    ]
+  },
+  "IMG_2843.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.9084138870239258
+      },
+      {
+        "label": "realistic tattoo",
+        "score": 0.03222864866256714
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.021912939846515656
+      }
+    ]
+  },
+  "IMG_2844.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.6073222756385803
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.20653168857097626
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.12817585468292236
+      }
+    ]
+  },
+  "IMG_2845.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.9073314666748047
+      },
+      {
+        "label": "realistic tattoo",
+        "score": 0.060521215200424194
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.01783263310790062
+      }
+    ]
+  },
+  "IMG_2846.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.8397618532180786
+      },
+      {
+        "label": "realistic tattoo",
+        "score": 0.06126144528388977
+      },
+      {
+        "label": "japanese tattoo",
+        "score": 0.027765272185206413
+      }
+    ]
+  },
+  "IMG_2847.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.9095276594161987
+      },
+      {
+        "label": "realistic tattoo",
+        "score": 0.03213365748524666
+      },
+      {
+        "label": "sketch style tattoo",
+        "score": 0.026401085779070854
+      }
+    ]
+  },
+  "IMG_2848.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.9379194378852844
+      },
+      {
+        "label": "realistic tattoo",
+        "score": 0.03747093677520752
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.008819201029837132
+      }
+    ]
+  },
+  "IMG_2850.JPG": {
+    "primary_tag": "portrait",
+    "detailed_analysis": [
+      {
+        "label": "portrait tattoo",
+        "score": 0.8626663088798523
+      },
+      {
+        "label": "black and grey tattoo",
+        "score": 0.07900670170783997
+      },
+      {
+        "label": "realistic tattoo",
+        "score": 0.03097359649837017
+      }
+    ]
+  }
+}

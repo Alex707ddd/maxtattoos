@@ -1,0 +1,199 @@
+.hero {
+  padding: 8rem 2rem 6rem;
+  text-align: center;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.title {
+  font-family: var(--font-display);
+  font-size: 4rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 1.5rem;
+  line-height: 1.1;
+  color: var(--foreground);
+}
+
+@media (min-width: 768px) {
+  .title {
+    font-size: 6rem;
+  }
+}
+
+.subtitle {
+  color: var(--muted);
+  font-size: 0.95rem;
+  max-width: 450px;
+  margin: 0 auto 2.5rem;
+  line-height: 1.6;
+}
+
+.ctaButton {
+  display: inline-block;
+  background-color: var(--accent);
+  color: white;
+  padding: 1rem 2.5rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  transition: all 0.3s ease;
+  border: none;
+}
+
+.ctaButton:hover {
+  background-color: var(--accent-hover);
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(195, 34, 34, 0.3);
+}
+
+/* Filter Bar */
+.filterBar {
+  position: sticky;
+  top: 71px;
+  z-index: 40;
+  background-color: rgba(10, 10, 10, 0.9);
+  backdrop-filter: blur(8px);
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 0;
+  overflow-x: auto;
+}
+
+.filterContainer {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: flex-start;
+  padding: 0 2rem;
+  min-width: max-content;
+}
+
+@media (min-width: 768px) {
+  .filterContainer {
+    justify-content: center;
+  }
+}
+
+.filterButton {
+  background: transparent;
+  border: 1px solid transparent;
+  color: var(--muted);
+  padding: 0.5rem 1rem;
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  cursor: pointer;
+  transition: all 0.25s;
+  font-family: var(--font-body);
+}
+
+.filterButton:hover {
+  color: var(--foreground);
+}
+
+.activeFilter {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* Gallery Grid */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3px;
+}
+
+@media (min-width: 768px) {
+  .grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.gridItem {
+  aspect-ratio: 1;
+  position: relative;
+  overflow: hidden;
+  background-color: var(--surface);
+  cursor: pointer;
+}
+
+.gridImage {
+  object-fit: cover;
+  transition: transform 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.gridItem:hover .gridImage {
+  transform: scale(1.08);
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0);
+  transition: background 0.4s;
+}
+
+.gridItem:hover .overlay {
+  background: rgba(195, 34, 34, 0.08);
+}
+
+/* Lightbox */
+.lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  background: rgba(0, 0, 0, 0.97);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.lightboxImageContainer {
+  position: relative;
+  width: 100%;
+  height: 80vh;
+  max-width: 1000px;
+}
+
+.lightboxImage {
+  object-fit: contain;
+}
+
+.lightboxCaption {
+  margin-top: 1.5rem;
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+}
+
+.closeButton {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+  color: var(--muted);
+  background: transparent;
+  border: 1px solid var(--border);
+  font-size: 1.2rem;
+  cursor: pointer;
+  padding: 0.5rem 0.75rem;
+  transition: all 0.3s;
+}
+
+.closeButton:hover {
+  color: white;
+  border-color: var(--accent);
+}
